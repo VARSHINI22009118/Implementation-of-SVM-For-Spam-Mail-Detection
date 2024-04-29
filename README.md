@@ -17,11 +17,12 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Program:
 ```
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: S JAIGANESH
-RegisterNumber:  212222240037
 
+Program to implement the SVM For Spam Mail Detection..
+Developed by: VARSHINI S A
+RegisterNumber:  212222100059
+```
+```
 import pandas as pd
 data=pd.read_csv("/content/spam.csv",encoding="Windows-1252")
 data.head()
